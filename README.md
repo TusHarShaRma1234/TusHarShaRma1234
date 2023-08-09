@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TusHarShaRma1234
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning WEb Development.
+- 👀 I’m interested in data analytics .
+- 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 How to reach me Twitter = @TusharS55829740.
 
